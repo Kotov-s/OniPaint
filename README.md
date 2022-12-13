@@ -3,5 +3,6 @@
 
 Программа написана на Python & PyQT5
 <img src="https://user-images.githubusercontent.com/97404891/207445950-1931fc72-f19a-47c1-ba5a-11e3c0bb2292.png" width="800"/>
+
 Рис. 1 — Вид программы и основной её функционал
 
